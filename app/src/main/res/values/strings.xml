@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">calculator_57248_chojnowski</string>
+    <string name="developer">developer: Karol Chojnowski</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="result">Output</string>
+    <string name="equal">=</string>
+    <string name="operator">\?</string>
+    <string name="system10">System 10</string>
+    <string-array name="base">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="operator">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+    </string-array>
+</resources>

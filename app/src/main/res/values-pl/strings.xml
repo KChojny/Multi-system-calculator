@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">calculator_57248_chojnowski</string>
+    <string name="developer">deweloper: Karol Chojnowski</string>
+    <string name="calculate">LICZ</string>
+    <string name="operator">\?</string>
+    <string name="equal">=</string>
+    <string name="system10">System 10</string>
+    <string name="result">Wynik</string>
+</resources>
